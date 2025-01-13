@@ -1,4 +1,4 @@
-﻿# TusharDas2003-Enhanced-Analysis-of-Airbnb-Market-Trends-in-New-York-City
+﻿# Enhanced-Analysis-of-Airbnb-Market-Trends-in-New-York-City
 In this project, we perform an in-depth analysis of the New York City Airbnb market using data from CSV, TSV, and Excel files. We explore various aspects of Airbnb listings, such as prices, locations, and review dates, to gain insights into market trends and patterns. The data includes information on nightly listing prices, boroughs, neighborhoods, and the last review dates of the listings.
 
 Key features of the analysis include:
